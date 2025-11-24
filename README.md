@@ -26,7 +26,7 @@ Designed for speed, simplicity, and full customization — ideal for SaaS apps, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/laravel-12-tailwind-alpine-dashboard.git
+git clone [https://github.com/IsaacNyamari/laravel-12-tailwind-alpine-dashboard.git]
 cd laravel-12-tailwind-alpine-dashboard
 ```
 
