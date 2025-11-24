@@ -114,6 +114,6 @@ This project is open-source under the **MIT License**.
 **Pro Codes Technologies** builds fast, modern, and scalable digital products.
 From custom dashboards to enterprise systems — crafting clean code and beautiful UI is our passion.
 
-For business inquiries, visit: *[Add your website or email here]*
+For business inquiries, visit: *https://procodestechnologies.co.ke*
 
 ---
